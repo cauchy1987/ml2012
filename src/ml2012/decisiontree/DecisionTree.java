@@ -21,6 +21,7 @@ public class DecisionTree {
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 
+		//this is used to test Github
 		long start = System.currentTimeMillis();
 		
 		Instances data = new Instances(  
